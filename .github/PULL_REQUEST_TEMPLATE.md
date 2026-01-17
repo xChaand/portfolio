@@ -1,5 +1,3 @@
-# Feature PR
-
 ## What
 
 ## Why
